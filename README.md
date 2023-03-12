@@ -1,6 +1,6 @@
 # Generated Code Review Automation How Far Are We 
 
-This is implementation of "Generated Code Review Automation How Far Are We ?"
+This is implementation of "Generated Code Review Automation How Far Are We ?" published in the research track in ICPC 2023. 
 
 
 
